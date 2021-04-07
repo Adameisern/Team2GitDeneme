@@ -5,7 +5,8 @@ public class GitDeneme {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("deneme1");
+		System.out.println("Github dan merhaba");
+		System.out.println("Git den merhaba");
 	}
 
 }
